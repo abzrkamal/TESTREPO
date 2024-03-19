@@ -1,0 +1,56 @@
+/* UNTUK MENCANTIKKAN LAGI HALAMAN CONTAINER*/
+.container {
+    border-radius:20px;
+    width: 500px;
+    height: 600px;
+    background-color: #16b518;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* MENCANTIKKAN TULISAN TAJUK SISTEM */
+h2 {
+    text-align: center;
+    color: white;
+    background-color: #fcc200;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+/* UNTUK MENCANTIKKAN KOTAK INPUT */
+input {
+    margin-top: 30px;
+    width: 350px;
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    border: none;
+    border-bottom: 5px solid gold;
+}
+
+.content {
+    border-top: 1px solid white;
+    text-align: center;
+}
+
+/* MENCANTIKKAN LAGI BUTANG SUBMIT */
+button {
+    background-color: #04c206;
+    width: 100px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+/* UNTUK MENENTUKAN SAIZ GAMBAR YANG DIPAPARKAN */
+img{
+    width:290px;
+    height: 250px;
+}
+
